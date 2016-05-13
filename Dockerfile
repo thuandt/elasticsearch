@@ -1,4 +1,4 @@
-FROM quay.io/pires/docker-elasticsearch:2.3.1
+FROM quay.io/pires/docker-elasticsearch:2.3.2
 
 MAINTAINER thuandt26@gmail.com
 
